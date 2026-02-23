@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sutthipong Nuanma and I'm a Fullstack Deverloper , from Chiang Rai, Thailand</h2>
+<h2 align="left">Hi 👋! My name is Sutthipong Nuanma and I'm a Fullstack Developer , from Chiang Rai, Thailand</h2>
 
 ###
 
